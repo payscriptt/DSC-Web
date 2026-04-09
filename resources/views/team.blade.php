@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <!-- 🚀 Hero Section -->
+<!-- 🚀 Hero Section -->
 <section class="hero">
     <div class="container">
         <h1 class="fw-bold">HALAMAN TEAM</h1>

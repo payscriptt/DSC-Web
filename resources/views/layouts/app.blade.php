@@ -420,6 +420,46 @@
   color: #212529;
 }
 
+
+/* ---------------------------------TEAMS CSS----------------------------- */
+.featured-card-teams {
+    background: #1a1a1a;
+}
+
+.featured-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,0.8));
+}
+
+/* Badge Styling */
+.badge {
+    font-weight: 500;
+}
+
+/* Efek Hover Card */
+.card-teams {
+    transition: transform 0.3s ease;
+}
+
+.card-teams:hover {
+    transform: translateY(-8px);
+}
+
+/* Custom Search Bar */
+.form-control:focus {
+    border-color: #4285f4;
+    box-shadow: none;
+}
+
+/* Ended Badge */
+.badge.bg-dark {
+    letter-spacing: 1px;
+    font-size: 0.75rem;
+}
+
     
   </style>
 
