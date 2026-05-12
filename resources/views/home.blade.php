@@ -147,7 +147,7 @@
         <span>PIC Secretary</span>
     </div>
     <div class="photo-circle purple-bg">
-        <img src="images/Adinda.png">
+        <img src="images/Adinda.webp">
     </div>
 </div>
 
@@ -157,7 +157,7 @@
         <span>PIC The Vector</span>
     </div>
     <div class="photo-circle red-bg">
-        <img src="images/Salva.png">
+        <img src="images/Salva.webp">
     </div>
 </div>
 
@@ -167,7 +167,7 @@
         <span>Leader</span>
     </div>
     <div class="photo-circle grey-bg">
-        <img src="images/Tiananmen.png">
+        <img src="images/Tiananmen.webp">
     </div>
 </div>
 
@@ -177,7 +177,7 @@
         <span>PIC The Pixel</span>
     </div>
     <div class="photo-circle dark-red-bg">
-        <img src="images/Daus.png">
+        <img src="images/Daus.webp">
     </div>
 </div>
 
@@ -187,7 +187,7 @@
         <span>PIC The Cypher</span>
     </div>
     <div class="photo-circle red-bg">
-        <img src="images/Rafi.png">
+        <img src="images/Rafi.webp">
     </div>
 </div>
 </div>

@@ -25,3 +25,8 @@ Route::get('/team', function () {
 Route::get('/faq', function () {
     return view('faq');
 })->name('faq');
+
+Route::get('/event/gallery/{slug}', function ($slug) {
+    // Untuk sekarang kita return view-nya langsung
+    return view('show-gallery');
+});
