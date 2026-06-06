@@ -5,6 +5,7 @@
         <img src="{{ asset('images/CC.png') }}" class="main-poster" alt="Event Poster">
         <div class="header-content">
             <h1 class="event-title-detail">Crash Course UI/UX Design</h1>
+            <p > Bikin bukan asal bikin: Gimana cara desainer nentuin solusi yang tepat buat user</p>
             <p class="text-muted"><i class="bi bi-calendar"></i> 30 May 2025</p>
             <div class="description mt-4">
                 <p>Event Crash Course UI/UX Design ini sukses diselenggarakan untuk membantu kreator digital memahami fundamental desain berbasis pengguna (User-Centered Design). Sorotan utama dari kegiatan ini meliputi:</p>
@@ -17,8 +18,8 @@
     </div>
 
     <div class="team-section">
-        <h2 class="fw-bold">Meet the team</h2>
-        <p class="text-muted">Orang-orang terbaik dibalik suksesnya BKP Mandiri</p>
+        <h2 class="fw-bold">Gallery</h2>
+
         
         <div class="gallery-grid">
             <div class="gallery-item">

@@ -19,7 +19,7 @@
 
      body {
     background: #ffffff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Google Sans", sans-serif;
 }
 
 
@@ -30,6 +30,7 @@
     position: relative; /* Wajib ada agar gambar tidak lari ke luar section */
     overflow: hidden;    /* Agar jika gambar terlalu besar, tidak muncul scrollbar */
     text-align: center;
+    font-family: "Google Sans", sans-serif;
 }
 
 
@@ -993,12 +994,9 @@
 .footer-bottom {
     background-color: #FAFAFA; /* Warna abu-abu full */
   
-    width: 1000px;
+    width: 100%;
     position: relative;
-    left: 58.5%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
+    
 }
 @media (max-width: 768px) {
     .footer-bottom {
@@ -1581,7 +1579,7 @@ body {
 }
 
 /* Container & Fonts */
-.container { font-family: 'Inter', sans-serif; }
+.container { font-family: "Google Sans", sans-serif; }
 
 .container-card {
     position: relative;

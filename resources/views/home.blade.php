@@ -48,7 +48,7 @@
                 <img src="{{ asset('images/Active.svg') }}">
                 <i class="fas fa-calendar-alt"></i> </div>
             <div class="content">
-                <h2 class="number">20</h2>
+                <h2 class="number">272</h2>
                 <p class="label-1">Active Members</p>
             </div>
         </div>
@@ -58,7 +58,7 @@
                 <img src="{{ asset('images/Events.svg') }}">
                 <i class="fas fa-calendar-alt"></i> </div>
             <div class="content">
-                <h2 class="number">2</h2>
+                <h2 class="number">29</h2>
                 <p class="label">Events Held</p>
             </div>
         </div>
@@ -229,7 +229,9 @@
     </div>
 
 </section>
-<h2 class="container my-5 fw-bold mb-4">Upcoming activities</h2>
+
+<h2 class="container my-5 fw-bold mb-4">Past Activities</h2>
+ {{--
 <div class="mt-5 d-flex flex-column align-items-center">
 <div class="empty-event-card w-100">
             <img src="{{ asset('images/Icon-Dino.svg') }}" class="icon-circle-img" alt="No Event">
@@ -240,56 +242,38 @@
             <button class="btn-notify">Notify Me</button>
         </div>
     </div>
-{{--
-<section class="container my-5">
-    
-    
-    <div class="row g-4">
-            <div class="card custom-card">
-                <div class="img-wrapper">
-                    <img src="{{ asset('images/instagram.png') }}" class="card-img-top" alt="Intro to Flutter">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title fw-bold">Intro to Flutter</h5>
-                    <p class="card-text text-muted small">Learn the basics of building cross-platform apps with Google's UI toolkit.</p>
-                </div>
-                <div class="card-footer bg-transparent border-0 d-flex justify-content-between align-items-center pb-3">
-                    <small class="text-muted">Offline at campus FTII Uhamka</small>
-                    <a href="#" class="text-primary text-decoration-none ">Register &rarr;</a>
-                </div>
-            </div>
-
-            <div class="card  custom-card">
-                <div class="img-wrapper">
-                    <img src="{{ asset('images/instagram.png') }}" class="card-img-top" alt="Intro to Flutter">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title fw-bold">Intro to Flutter</h5>
-                    <p class="card-text text-muted small">Learn the basics of building cross-platform apps with Google's UI toolkit.</p>
-                </div>
-                <div class="card-footer bg-transparent border-0 d-flex justify-content-between align-items-center pb-3">
-                    <small class="text-muted">Offline at campus FTII Uhamka</small>
-                    <a href="#" class="text-primary text-decoration-none ">Register &rarr;</a>
-                </div>
-            </div>
-
-            <div class="card  custom-card">
-                <div class="img-wrapper">
-                    <img src="{{ asset('images/instagram.png') }}" class="card-img-top" alt="Intro to Flutter">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title fw-bold">Intro to Flutter</h5>
-                    <p class="card-text text-muted small">Learn the basics of building cross-platform apps with Google's UI toolkit.</p>
-                </div>
-                <div class="card-footer bg-transparent border-0 d-flex justify-content-between align-items-center pb-3">
-                    <small class="text-muted">Offline at campus FTII Uhamka</small>
-                    <a href="#" class="text-primary text-decoration-none ">Register &rarr;</a>
-                </div>
-            </div>
-
-    </div>
-</section>
 --}}
+<div id="past-content" style="display: none;">
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="event-card-past shadow-sm">
+                <div class="card-header-img">
+                    <img src="images/CrashCourse.png" alt="Event Poster">
+                    <span class="badge-ended">ENDED</span>
+                    <span class="badge-category">The Pixels</span>
+                    <div class="overlay-type">Crash Course</div>
+                </div>
+
+                <div class="card-body-past">
+                    <h5 class="event-title1">Crash Course UI/UX Design</h5>
+                    <div class="event-date">
+                        <img src="{{ asset('images/cal.svg') }}" width="18">
+                        <span>30 May 2025</span>
+                    </div>
+                    
+                    <hr class="divider">
+                    
+                    <a href="{{ url('/event/gallery/crash-course-uiux') }}" class="view-gallery">
+                        <img src="{{ asset('images/img.svg') }}" width="20"> 
+                        <span>View Gallery</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        </div>
+</div>
+
 <section>
 <div class="team-header"> <br>
     <h1 class="fw-bold" style="text-align: center;">Our Partners</h1>

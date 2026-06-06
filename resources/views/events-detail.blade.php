@@ -257,10 +257,10 @@
                 <div class="speaker-list">
                     <div class="speaker-item">
                         <div class="avatar-wrapper orange-border">
-                            <img src="{{ asset('images/Regisa.webp') }}">
+                            <img src="{{ asset('images/detaa.png') }}">
                         </div>
                         <div class="speaker-info">
-                            <h5 class="fw-bold">Regisya. A</h5>
+                            <h5 class="fw-bold">Deeta Zamel Aulia</h5>
                             <p class="desc">MODERATOR</p>
                             <div class="speaker-tags">
                   <span class="s-tag">Core Team DSC Uhamka</span>

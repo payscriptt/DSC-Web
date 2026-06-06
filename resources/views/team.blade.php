@@ -53,16 +53,16 @@
                 <p class="text-primary small mb-1">PIC - Secretary</p>
                 <p class="text-muted small mb-3">Managing administration & community records.</p>
                 <div class="social-links-small">
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.linkedin.com/in/adinda-wulandari-anggraini-6254152b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://g.dev/adindawulandarianggraini" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
                    <a href="#" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://github.com/adindawulandari" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a>
                     
@@ -77,16 +77,16 @@
                 <p class="text-primary small mb-1">PIC - The Pixels</p>
                 <p class="text-muted small mb-3">Crafting intuitive & beautiful user experiences.</p>
                 <div class="social-links-small">
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.linkedin.com/in/firdaus-firmansyah-2027352a1/" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://g.dev/daussaurus" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.instagram.com/daussfh/" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://github.com/Firdaus-Firmansyah" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a>
                 </div>
@@ -150,10 +150,10 @@
         </a>
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
-        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/ardi.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Ardi Setiawan</h5><p class="text-primary small mb-1">The Pixels</p><p class="text-muted small mb-3">Crafting intuitive & beautiful user experiences.</p><div class="social-links-small"><a href="#" class="d-inline-block">
+        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/ardi.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Ardi Setiawan</h5><p class="text-primary small mb-1">The Pixels</p><p class="text-muted small mb-3">Crafting intuitive & beautiful user experiences.</p><div class="social-links-small"><a href="https://id.linkedin.com/in/ardi-setiawan1" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
         </a><a href="#" class="d-inline-block">
-            <a href="#" class="d-inline-block">
+            <a href="https://g.dev/ardisetiawan1" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
                     <a href="#" class="d-inline-block">
@@ -161,26 +161,27 @@
         </a>
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
-        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/ziyah.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Fauziyah Salsabila</h5><p class="text-primary small mb-1">The Vectors</p><p class="text-muted small mb-3">Building scalable web & mobile solutions.</p><div class="social-links-small"><a href="#" class="d-inline-block">
+        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/ziyah.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Fauziyah Salsabila</h5><p class="text-primary small mb-1">The Vectors</p><p class="text-muted small mb-3">Building scalable web & mobile solutions.</p><div class="social-links-small"><a href="https://www.linkedin.com/in/fauziyah-salsabila-64434331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
-        </a><a href="#" class="d-inline-block">
-            <a href="#" class="d-inline-block">
+        </a>
+            <a href="https://g.dev/fauziyah" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.instagram.com/ziyahslsa/?utm_source=ig_web_button_share_sheet" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
-        </a>
+        </a><a href="https://github.com/ziyasalsa" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
-        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/deta.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Regissya Anfieldasari F. A.</h5><p class="text-primary small mb-1">The Cyphers</p><p class="text-muted small mb-3">Securing systems & exploring IoT connectivity.</p><div class="social-links-small"><a href="#" class="d-inline-block">
+        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/deta.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Regissya Anfieldasari F. A.</h5><p class="text-primary small mb-1">The Cyphers</p><p class="text-muted small mb-3">Securing systems & exploring IoT connectivity.</p><div class="social-links-small"><a href="http://www.linkedin.com/in/regissya-anfieldasari-1b4a0b348" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
-        </a><a href="#" class="d-inline-block">
-            <a href="#" class="d-inline-block">
+        </a>
+            <a href="https://developers.google.com/profile/u/RegissyaAnfieldasari" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.instagram.com/anfld__?igsh=MWV1am12NzIyMWk1Zg==" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
         </a>
+             <a href="https://github.com/gyuuniversee" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
 
@@ -210,15 +211,16 @@
         </a>
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
-        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/indah.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Adisyah Indah Nurkusuma</h5><p class="text-primary small mb-1">The Vectors</p><p class="text-muted small mb-3">Building scalable web & mobile solutions.</p><div class="social-links-small"><a href="#" class="d-inline-block">
+        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/indah.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Adisyah Indah Nurkusuma</h5><p class="text-primary small mb-1">The Vectors</p><p class="text-muted small mb-3">Building scalable web & mobile solutions.</p><div class="social-links-small"><a href="https://www.linkedin.com/in/adisyah-indah-nurkusuma-297b172b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
-        </a><a href="#" class="d-inline-block">
-            <a href="#" class="d-inline-block">
+        </a>
+            <a href="https://g.dev/Adisyah65" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.instagram.com/dsyh.ndh?igsh=MTNzanR2ejF2aW1pdw==" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
         </a>
+            <a href="https://github.com/Adisyah65" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
         <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/aura.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Aura Shyifa Aulia</h5><p class="text-primary small mb-1">The Cyphers</p><p class="text-muted small mb-3">Securing systems & exploring IoT connectivity.</p><div class="social-links-small"><a href="#" class="d-inline-block">
@@ -244,15 +246,16 @@
         </a>
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
-        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/rifqi.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Rifqi Hakim</h5><p class="text-primary small mb-1">The Vectors</p><p class="text-muted small mb-3">Building scalable web & mobile solutions.</p><div class="social-links-small"><a href="#" class="d-inline-block">
+        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/rifqi.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Rifqi Hakim</h5><p class="text-primary small mb-1">The Vectors</p><p class="text-muted small mb-3">Building scalable web & mobile solutions.</p><div class="social-links-small"><a href="https://www.linkedin.com/in/rifqi-hakim875094285/" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
         </a><a href="#" class="d-inline-block">
-            <a href="#" class="d-inline-block">
+            <a href="https://g.dev/rfqiih" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.instagram.com/rfqiih?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
         </a>
+            <a href="https://github.com/payscriptt" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
         <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/regis.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Regissya Anfieldasari F.A.</h5><p class="text-primary small mb-1">The Cyphers</p><p class="text-muted small mb-3">Securing systems & exploring IoT connectivity.</p><div class="social-links-small"><a href="#" class="d-inline-block">
@@ -278,15 +281,16 @@
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
 
-        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/jelita.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Jelita Eka Putri Rahmadhani </h5><p class="text-primary small mb-1">Content Writer</p><p class="text-muted small mb-3">Storytelling the journey of our community.</p><div class="social-links-small"><a href="#" class="d-inline-block">
+        <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/jelita.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Jelita Eka Putri Rahmadhani </h5><p class="text-primary small mb-1">Content Writer</p><p class="text-muted small mb-3">Storytelling the journey of our community.</p><div class="social-links-small"><a href="https://www.linkedin.com/in/lita-lita" class="d-inline-block">
             <img src="{{ asset('images/linkedin2.svg') }}" style="width: 20px; height: auto;">
-        </a><a href="#" class="d-inline-block">
-            <a href="#" class="d-inline-block">
+        </a>
+            <a href="https://developers.google.com/profile/u/104676974325743817914/edit" class="d-inline-block">
             <img src="{{ asset('images/code.svg') }}" style="width: 20px; height: auto;">
         </a>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.instagram.com/putriouz_?igsh=NWxqd3FoZ3A5MnV1" class="d-inline-block">
             <img src="{{ asset('images/ig.svg') }}" style="width: 20px; height: auto;">
         </a>
+             <a href="https://github.com/settings/profile" class="d-inline-block">
             <img src="{{ asset('images/github.svg') }}" style="width: 20px; height: auto;">
         </a></div></div></div>
         <div class="col-lg-3 col-md-6"><div class="member-card" style="text-align: left !important; align-items: flex-start !important;"><img src="images/rakha.webp" class="img-fluid rounded-4 mb-3"> <h5 class="fw-bold mb-1">Rakha Arrayyan Ramdhan</h5><p class="text-primary small mb-1">Graphic Design</p><p class="text-muted small mb-3">Visualizing ideas into stunning creative assets..</p><div class="social-links-small"><a href="#" class="d-inline-block">
