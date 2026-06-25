@@ -14,7 +14,7 @@ Route::get('/events/{id?}', function ($id = null) {
     return view('events', ['eventId' => $id]);
 });
 
-Route::get('/event/ngabuburIT', function () {
+Route::get('/event/detail', function () {
     return view('events-detail'); // Pastikan nama filenya events-detail.blade.php
 });
 

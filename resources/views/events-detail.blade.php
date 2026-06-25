@@ -4,7 +4,7 @@
     .main-banner {
     /* Gunakan asset() jika di dalam Blade, atau path relatif jika di .css */
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 50%, transparent 100%), 
-                      url('../images/BtS.png');
+                      url('../images/TheVectors.png');
     background-size: cover;
     background-position: center;
     border-radius: 24px;
@@ -130,19 +130,19 @@
                             </span> OPEN REGISTRATION
                                 </span>
                     <div class="category-tags">
-                        <span class="tag">The Cyphers</span>
-                    <span class="tag">Web Application</span>
-                    <span class="tag">Penetration Testing</span>
+                        <span class="tag">The Vectors</span>
+                    <span class="tag">Data Analytics</span>
+                    <span class="tag">Tableau</span>
                     </div>
-                    <h1 class="event-title">Beyond the Surface: Bypassing Defenses & Gaining Persistence</h1>
+                    <h1 class="event-title">Data Storytelling: Ultimate Tricks for Data Visualization Using Tableau   </h1>
                 </div>
             </div>
 
             <div class="info-card main-content-card">
                 <h4 class="section-title blue-line">About the Event</h4>
                 <div class="description-text mt-4">
-                    <p>Amidst the current trend of web application development, many developers focus on stunning UI/UX aesthetics, but often neglect fundamental security aspects. This creates a fatal risk where websites become easy targets for threats such as SQL Injection, File Upload manipulation, and Web Shell exploits. </p>
-                    <p>In conjunction with The Cyphers division in a special Study Jam on Web Application Penetration Testing! In this session, we will break these vulnerability patterns by developing a Red Team mindset. You will not only learn the theory of cyber threat analysis, but also be challenged to practice directly detecting gaps, bypassing protection systems, and mitigating increasingly complex cybersecurity vulnerabilities in the real world.</p>
+                    <p>In today's data-driven world, looking at thousands of rows in an Excel spreadsheet is no longer enough. The ability to transform raw data into interactive, easy-to-understand visuals that can "tell a story" to stakeholders is a highly sought-after skill in the industry.</p>
+                    <p>Join GDSC UHAMKA for a comprehensive hands-on workshop focused on Data Visualization using Tableau Public. Whether you are aiming to become a Data Analyst or simply want to present your reports more professionally, this session will equip you with practical tricks to build your first fully functional business dashboard in just one sitting. You will learn everything from importing raw datasets and creating geographical maps to implementing "Action Filters" that make your dashboard seamlessly interactive..</p>
                 </div>
 
                <h5 class="sub-title mt-4 d-inline-flex align-items-center">
@@ -154,25 +154,25 @@
                     <div class="col-md-6">
                         <div class="prereq-item">
                             <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span >Understand the Attacker Mindset: Learn the hacking process from reconnaissance to exploitation.</span>
+                            <span >Understand the Role: Discover the real-world role of a Data Analyst and why visual data storytelling is more powerful than traditional spreadsheets.</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="prereq-item">
                              <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span>Master Bypassing Techniques: Practice bypassing blacklists using character variations, coding, and case-sensitivity manipulation.</span>
+                            <span>Build Interactive Dashboards: Learn the ultimate tricks to create Bar Charts, Time-series Line Charts, and interactive Geographical Maps with simple drag-and-drop actions.</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="prereq-item">
                             <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span>Hands-on with Burp Suite: Use professional tools to modify requests and analyze server responses in depth.</span>
+                            <span>Master Tableau Basics: Get hands-on experience navigating the Tableau Public workspace, including Data Sources, Dimensions, Measures, and the Marks Card.</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="prereq-item">
                             <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span>Implement Secure Coding: Learn data protection strategies through whitelisting and parameterized query methods.</span>
+                            <span>Publish Your Portfolio: Learn how to save and publish your interactive dashboard to your Tableau Public profile, creating a standout portfolio piece for your CV or LinkedIn.</span>
                         </div>
                     </div>
                 </div>
@@ -191,27 +191,29 @@
 
     <div class="info-text">
         <label class="d-block mb-1">Date & Time</label>
-        <h5 class="mb-1 fw-bold ">Saturday, 23 May 2026</h5>
+        <h5 class="mb-1 fw-bold ">Saturday, 27 June 2026</h5>
         <p class="mb-0">13:00 - 16:00 WIB</p>
     </div>
 </div>
 
             <div class="info-card location-card-overlay p-0 overflow-hidden">
     <div class="map-bg">
+        {{--  
         <iframe 
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7337775936357!2d106.86576857475133!3d-6.301323393687834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed9d90390311%3A0x67396a84f326164f!2sFTII%20UHAMKA%20Kampus%20F!5e0!3m2!1sid!2sid!4v1711512345678!5m2!1sid!2sid" 
             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy">
-        </iframe>
+        </iframe>--}}
     </div>
 
 
     <div class="location-text-content">
+        
         <div class="d-flex align-items-center gap-2 mb-1">
              <img src="{{ asset('images/location.png')}}"  width="20" height="20" class="me-2" alt="icon">
-            <label class="m-0 fw-bold text-white uppercase-label">LOCATION</label>
+            <label class="m-0 fw-bold text-black uppercase-label">LOCATION</label>
         </div>
-        <h5 class="fw-bold text-white mb-1">FTII UHAMKA Campus F</h5>
-        <p class="small text-white-50 mb-0">Jl. Tanah Merdeka, Ciracas, Jakarta Timur</p>
+        <h5 class="fw-bold text-black mb-1">Online</h5>
+        <p class="small text-black-50 mb-0">Link will be provided upon registration</p>
     </div>
 </div>
 
@@ -227,13 +229,17 @@
     </div>
 </div>
 
-            <div class="registration-bar">
-
-    
-    <button class="btn-register-now text-center " onclick="window.open('https://forms.gle/Tyba9eQ8Kei3Hqo86', '_blank')">
-    Register Now <i class="fas fa-arrow-right ms-2"></i>
-</button>
+        <div class="registration-bar">
+   <div class="d-flex justify-content-end w-100">
+    <!-- Ditambahkan kelas me-4 untuk mendorongnya agak ke kiri -->
+    <button class="btn-register-now text-center me-5" onclick="window.open('https://google.com', '_blank')">
+        Register Now <i class="fas fa-arrow-right ms-2"></i>
+    </button>
 </div>
+</div>
+
+
+
 
             <div class="info-card speakers-card">
                 <div class="card-header-flex">
@@ -242,14 +248,14 @@
                 <div class="speaker-list">
                     <div class="speaker-item">
                         <div class="avatar-wrapper blue-border">
-                            <img src="{{ asset('images/Yuman.webp') }}">
+                            <img src="{{ asset('images/Dicky.png') }}">
                         </div>
                         <div class="speaker-info">
-                            <h5 class="fw-bold">Yumansyah Nurnindar</h5>
-                            <p class="desc">KOORDINATOR ACT REGION BEKASI</p>
+                            <h5 class="fw-bold">Dicky Lihardo Girsang</h5>
+                            <p class="desc">STRATEGIC PARTNERSHIP AT DATA SCIENCE INDONESIA DATA ANALYST FLIGHT AT TRAVELOKA</p>
                             <div class="speaker-tags">
-                  <span class="s-tag">Cyber Security Expert</span>
-                  <span class="s-tag">Web Application Penetration Testing</span>
+                  <span class="s-tag">Data Visualization</span>
+                  <span class="s-tag">Tableau</span>
                 </div>
                         </div>
                     </div>
@@ -257,20 +263,20 @@
                 <div class="speaker-list">
                     <div class="speaker-item">
                         <div class="avatar-wrapper orange-border">
-                            <img src="{{ asset('images/detaa.png') }}">
+                            <img src="{{ asset('images/nadya.png') }}">
                         </div>
                         <div class="speaker-info">
-                            <h5 class="fw-bold">Deeta Zamel Aulia</h5>
+                            <h5 class="fw-bold">Fayza Nadya</h5>
                             <p class="desc">MODERATOR</p>
                             <div class="speaker-tags">
                   <span class="s-tag">Core Team DSC Uhamka</span>
-                  <span class="s-tag">The Cyphers</span>
+                  <span class="s-tag">The Vectors</span>
                 </div>
                         </div>
                         
                     </div>
                     <div class="notify-card mt-4">
-    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Beyond+the+Surface:+Bypassing+Defenses+%26+Gaining+Persistence&dates=20260523T060000Z/20260523T090000Z&details=Jangan+lupa+hadir+di+event+DSC+Uhamka!+Membahas+tuntas+tentang+Cyber+Security.&location=FTII+Uhamka" 
+    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ultimate+Tricks+for+Data+Visualization+Using+Tableau&dates=20260627T060000Z/20260627T090000Z&details=Jangan+lupa+hadir+di+event!+Membahas+tuntas+tentang+Data+Visualization+menggunakan+Tableau.&location=FTII+Uhamka" 
        target="_blank" 
        class="btn-notify text-decoration-none">
         <div class="notify-icon">
@@ -300,8 +306,8 @@
                     </div>
                     <div class="content">
                         <span class="time text-blue">12:30 PM</span>
-                        <h6 class="title">Check-in</h6>
-                        <p class="desc">Registration</p>
+                        <h6 class="title">Join link</h6>
+                        <p class="desc">Google Meet</p>
                     </div>
                 </div>
 
@@ -311,8 +317,8 @@
                     </div>
                     <div class="content">
                         <span class="time text-green">13:00 PM</span>
-                        <h6 class="title">Check-in & Opening</h6>
-                        <p class="desc">Registrasi dan Pembukaan</p>
+                        <h6 class="title">Opening & Introduction</h6>
+                        <p class="desc">Welcoming remarks, rules, and speaker introduction</p>
                     </div>
                 </div>
 
@@ -322,8 +328,8 @@
                     </div>
                     <div class="content">
                         <span class="time text-cyan">13:20 PM</span>
-                        <h6 class="title">Teori & Konsep</h6>
-                        <p class="desc">Pengenalan Penetration Testing</p>
+                        <h6 class="title">The Role of Data Analyst</h6>
+                        <p class="desc">Introduction to Data Visulization & Tableau Workspace</p>
                     </div>
                 </div>
 
@@ -333,8 +339,8 @@
                     </div>
                     <div class="content">
                         <span class="time text-orange">14:00 PM</span>
-                        <h6 class="title">Praktikum(Hands-on)</h6>
-                        <p class="desc">Workshop Penetration Testing</p>
+                        <h6 class="title">Hands-on Workshop</h6>
+                        <p class="desc">Building charts, maps, and an intercative business dashboard </p>
                     </div>
                 </div>
 
@@ -343,9 +349,9 @@
                         <div class="inner-dot"></div>
                     </div>
                     <div class="content">
-                        <span class="time text-red">15:15 - 15:35 PM</span>
-                        <h6 class="title">Showcase, Tell & QnA</h6>
-                        <p class="desc">Presentasi, tanya jawab</p>
+                        <span class="time text-red">15:15 - 15:30 PM</span>
+                        <h6 class="title">Publishing, Closing & QnA</h6>
+                        <p class="desc">Troubleshooting, saving to Tableau Public, and interactive discussion. Photo session and feedback form submission.</p>
                     </div>
                 </div>
             </div> </div> </div> </div>
