@@ -4,7 +4,7 @@
     .main-banner {
     /* Gunakan asset() jika di dalam Blade, atau path relatif jika di .css */
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 50%, transparent 100%), 
-                      url('../images/TheVectors.png');
+                      url('../images/ThePixels.png');
     background-size: cover;
     background-position: center;
     border-radius: 24px;
@@ -130,19 +130,18 @@
                             </span> OPEN REGISTRATION
                                 </span>
                     <div class="category-tags">
-                        <span class="tag">The Vectors</span>
-                    <span class="tag">Data Analytics</span>
-                    <span class="tag">Tableau</span>
+                        <span class="tag">The Pixels</span>
+                    <span class="tag">UI/UX Design</span>
                     </div>
-                    <h1 class="event-title">Data Storytelling: Ultimate Tricks for Data Visualization Using Tableau   </h1>
+                    <h1 class="event-title">Mastering Figma Workflow & Design System with Kretya Studio</h1>
                 </div>
             </div>
 
             <div class="info-card main-content-card">
                 <h4 class="section-title blue-line">About the Event</h4>
                 <div class="description-text mt-4">
-                    <p>In today's data-driven world, looking at thousands of rows in an Excel spreadsheet is no longer enough. The ability to transform raw data into interactive, easy-to-understand visuals that can "tell a story" to stakeholders is a highly sought-after skill in the industry.</p>
-                    <p>Join GDSC UHAMKA for a comprehensive hands-on workshop focused on Data Visualization using Tableau Public. Whether you are aiming to become a Data Analyst or simply want to present your reports more professionally, this session will equip you with practical tricks to build your first fully functional business dashboard in just one sitting. You will learn everything from importing raw datasets and creating geographical maps to implementing "Action Filters" that make your dashboard seamlessly interactive..</p>
+                    <p> In the UI/UX industry, creating aesthetically pleasing interfaces is no longer enough. Many junior designers experience a "culture shock" when entering professional agencies because they lack an understanding of collaborative workflows and design consistency. Designing dozens of screens without standardization makes developer handoff a nightmare and slows down the entire team.</p>
+                    <p> Join GDSC UHAMKA and Kretya Studio to bridge this gap! In this exclusive Tech Talk and hands-on workshop, we will dissect the real-world UI/UX workflow of a professional agency. You will learn the fundamental techniques of building a Design System in Figma—utilizing Local Variables, Components, and Auto Layout—ensuring your designs are not only beautiful but also scalable, functional, and industry-ready.</p>
                 </div>
 
                <h5 class="sub-title mt-4 d-inline-flex align-items-center">
@@ -154,25 +153,25 @@
                     <div class="col-md-6">
                         <div class="prereq-item">
                             <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span >Understand the Role: Discover the real-world role of a Data Analyst and why visual data storytelling is more powerful than traditional spreadsheets.</span>
+                            <span > Figma Account & Setup: Ensure you have an active Figma account logged in on your PC/Laptop. A stable internet connection and an external mouse are highly recommended.</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="prereq-item">
                              <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span>Build Interactive Dashboards: Learn the ultimate tricks to create Bar Charts, Time-series Line Charts, and interactive Geographical Maps with simple drag-and-drop actions.</span>
+                            <span> Figma Fundamentals: Basic familiarity with the Figma interface, including creating Frames, basic shapes, and using text tools, is required to keep up with the pace.</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="prereq-item">
                             <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span>Master Tableau Basics: Get hands-on experience navigating the Tableau Public workspace, including Data Sources, Dimensions, Measures, and the Marks Card.</span>
+                            <span> Duplicate the Starter Kit: Participants must duplicate the provided "Starter UI Kit / Wireframe" file (link provided D-1) into their Figma drafts before the workshop begins. <span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="prereq-item">
                             <img src="{{ asset('images/ceklis.svg')}}"  width="20" height="20" class="me-2" alt="icon">
-                            <span>Publish Your Portfolio: Learn how to save and publish your interactive dashboard to your Tableau Public profile, creating a standout portfolio piece for your CV or LinkedIn.</span>
+                            <span> Professional Mindset: Come ready to shift your perspective from just "making UI" to "building scalable design systems" used by professional agencies.</span>
                         </div>
                     </div>
                 </div>
@@ -191,8 +190,8 @@
 
     <div class="info-text">
         <label class="d-block mb-1">Date & Time</label>
-        <h5 class="mb-1 fw-bold ">Saturday, 27 June 2026</h5>
-        <p class="mb-0">13:00 - 16:00 WIB</p>
+        <h5 class="mb-1 fw-bold ">Saturday, 18 Juli 2026</h5>
+        <p class="mb-0">09:00 - 11:00 WIB</p>
     </div>
 </div>
 
@@ -232,7 +231,7 @@
         <div class="registration-bar">
    <div class="d-flex justify-content-end w-100">
     <!-- Ditambahkan kelas me-4 untuk mendorongnya agak ke kiri -->
-    <button class="btn-register-now text-center me-5" onclick="window.open('https://google.com', '_blank')">
+    <button class="btn-register-now text-center me-5" onclick="window.open('https://forms.gle/XcRx2AhFZpP75L82A')">
         Register Now <i class="fas fa-arrow-right ms-2"></i>
     </button>
 </div>
@@ -241,42 +240,76 @@
 
 
 
-            <div class="info-card speakers-card">
-                <div class="card-header-flex">
-                    <h4 class="section-title red-line">Speakers</h4>
+           <div class="info-card speakers-card">
+    <div class="card-header-flex">
+        <h4 class="section-title red-line">Speakers</h4>
+    </div>
+
+    <div class="speaker-list">
+
+        <!-- Speaker 1 -->
+        <div class="speaker-item">
+            <div class="avatar-wrapper blue-border">
+                <img src="{{ asset('images/Ahmad.png') }}" alt="Speaker">
+            </div>
+
+            <div class="speaker-info">
+                <h5 class="fw-bold">Ahmad Fauzi</h5>
+
+                <p class="desc">
+                   CREATIVE DIRECTOR AT KRETYA STUDIO
+                </p>
+
+                <div class="speaker-tags">
+                    <span class="s-tag">UI/UX</span>
+                    <span class="s-tag">Figma</span>
                 </div>
-                <div class="speaker-list">
-                    <div class="speaker-item">
-                        <div class="avatar-wrapper blue-border">
-                            <img src="{{ asset('images/Dicky.png') }}">
-                        </div>
-                        <div class="speaker-info">
-                            <h5 class="fw-bold">Dicky Lihardo Girsang</h5>
-                            <p class="desc">STRATEGIC PARTNERSHIP AT DATA SCIENCE INDONESIA DATA ANALYST FLIGHT AT TRAVELOKA</p>
-                            <div class="speaker-tags">
-                  <span class="s-tag">Data Visualization</span>
-                  <span class="s-tag">Tableau</span>
+            </div>
+        </div>
+
+        <!-- Speaker 2 -->
+         <div class="speaker-item">
+            <div class="avatar-wrapper blue-border">
+                <img src="{{ asset('images/Rizki.png') }}" alt="Speaker">
+            </div>
+
+            <div class="speaker-info">
+                <h5 class="fw-bold">Rizki Fadhilah Muhammad Habibi</h5>
+
+                <p class="desc">
+                   UX DIRECTOR AT KRETYA STUDIO
+                </p>
+
+                <div class="speaker-tags">
+                    <span class="s-tag">Design System</span>
+                    <span class="s-tag">Agency Workflow</span>
                 </div>
-                        </div>
-                    </div>
+            </div>
+        </div>
+
+        <!-- Speaker 3 -->
+        <div class="speaker-item">
+            <div class="avatar-wrapper orange-border">
+                <img src="{{ asset('images/Bimbiii.png') }}" alt="Moderator">
+            </div>
+
+            <div class="speaker-info">
+                <h5 class="fw-bold">Bimbi Elsabathi</h5>
+
+                <p class="desc">MODERATOR</p>
+
+                <div class="speaker-tags">
+                    <span class="s-tag">Core Team DSC Uhamka</span>
+                    <span class="s-tag">The Pixels</span>
                 </div>
-                <div class="speaker-list">
-                    <div class="speaker-item">
-                        <div class="avatar-wrapper orange-border">
-                            <img src="{{ asset('images/nadya.png') }}">
-                        </div>
-                        <div class="speaker-info">
-                            <h5 class="fw-bold">Fayza Nadya</h5>
-                            <p class="desc">MODERATOR</p>
-                            <div class="speaker-tags">
-                  <span class="s-tag">Core Team DSC Uhamka</span>
-                  <span class="s-tag">The Vectors</span>
-                </div>
-                        </div>
-                        
-                    </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+                    
                     <div class="notify-card mt-4">
-    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ultimate+Tricks+for+Data+Visualization+Using+Tableau&dates=20260627T060000Z/20260627T090000Z&details=Jangan+lupa+hadir+di+event!+Membahas+tuntas+tentang+Data+Visualization+menggunakan+Tableau.&location=FTII+Uhamka" 
+    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mastering+Figma+Workflow+%26+Design+System&dates=20260718T020000Z/20260718T040000Z&details=Jangan+lupa+hadir+di+event!+Pelajari+workflow+Figma+secara+efektif+serta+cara+membangun+Design+System+yang+konsisten.&location=Google+Meet" 
        target="_blank" 
        class="btn-notify text-decoration-none">
         <div class="notify-icon">
@@ -286,12 +319,11 @@
     </a>
     <p class="notify-text">Receive a reminder before the event starts</p>
 </div>
-                </div>
-            </div>
+        
 
         </div> {{-- Penutup col-lg-4 --}}
 
-       <div class="info-card agenda-card mt-4">
+       <div class="info-card agenda-card mt-5">
     <h4 class="section-title green-line">Agenda</h4>
 
     <div class="timeline-container mt-5">
@@ -305,7 +337,7 @@
                         <div class="inner-dot"></div>
                     </div>
                     <div class="content">
-                        <span class="time text-blue">12:30 PM</span>
+                        <span class="time text-blue">09:00 PM</span>
                         <h6 class="title">Join link</h6>
                         <p class="desc">Google Meet</p>
                     </div>
@@ -316,8 +348,8 @@
                         <div class="inner-dot"></div>
                     </div>
                     <div class="content">
-                        <span class="time text-green">13:00 PM</span>
-                        <h6 class="title">Opening & Introduction</h6>
+                        <span class="time text-green">09:10 PM</span>
+                        <h6 class="title">Industry Tech Talk</h6>
                         <p class="desc">Welcoming remarks, rules, and speaker introduction</p>
                     </div>
                 </div>
@@ -327,20 +359,9 @@
                         <div class="inner-dot"></div>
                     </div>
                     <div class="content">
-                        <span class="time text-cyan">13:20 PM</span>
-                        <h6 class="title">The Role of Data Analyst</h6>
-                        <p class="desc">Introduction to Data Visulization & Tableau Workspace</p>
-                    </div>
-                </div>
-
-                <div class="timeline-item">
-                    <div class="node">
-                        <div class="inner-dot"></div>
-                    </div>
-                    <div class="content">
-                        <span class="time text-orange">14:00 PM</span>
+                        <span class="time text-cyan">09:45 PM</span>
                         <h6 class="title">Hands-on Workshop</h6>
-                        <p class="desc">Building charts, maps, and an intercative business dashboard </p>
+                        <p class="desc">Building a Mini Design System: Variables, Auto Layout implementation.</p>
                     </div>
                 </div>
 
@@ -349,9 +370,20 @@
                         <div class="inner-dot"></div>
                     </div>
                     <div class="content">
-                        <span class="time text-red">15:15 - 15:30 PM</span>
-                        <h6 class="title">Publishing, Closing & QnA</h6>
-                        <p class="desc">Troubleshooting, saving to Tableau Public, and interactive discussion. Photo session and feedback form submission.</p>
+                        <span class="time text-orange">10:35 PM</span>
+                        <h6 class="title">Showcase & QnA</h6>
+                        <p class="desc">Interactive design review, troubleshooting, and QnA with the experts.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="node">
+                        <div class="inner-dot"></div>
+                    </div>
+                    <div class="content">
+                        <span class="time text-red">10:35 - 10:50 PM</span>
+                        <h6 class="title">Closing</h6>
+                        <p class="desc">Group photo, E-Certificate distribution, and feedback form submission</p>
                     </div>
                 </div>
             </div> </div> </div> </div>
